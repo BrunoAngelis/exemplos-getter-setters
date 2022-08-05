@@ -5,6 +5,5 @@ public class SistemaCadastro {
         bruno.setEndereco("Rua Benedito Rosa");
 
         System.out.println(bruno.getNome()+" - "+bruno.getCpf());
-
     }
 }
